@@ -1,6 +1,6 @@
-# ng-book 2: Inventory App
+# ng-book 2: Forms Examples
 
-> An Angular 2 inventory app
+> An Angular 2 Forms example app
 
 ## Dependencies
 
